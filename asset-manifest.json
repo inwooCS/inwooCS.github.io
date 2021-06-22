@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/inwooCS/inwooCS.github.io/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/inwooCS/inwooCS.github.io/static/js/main.adcdb944.chunk.js",
-    "main.js.map": "/inwooCS/inwooCS.github.io/static/js/main.adcdb944.chunk.js.map",
-    "runtime-main.js": "/inwooCS/inwooCS.github.io/static/js/runtime-main.3f159c57.js",
-    "runtime-main.js.map": "/inwooCS/inwooCS.github.io/static/js/runtime-main.3f159c57.js.map",
-    "static/js/2.4c520314.chunk.js": "/inwooCS/inwooCS.github.io/static/js/2.4c520314.chunk.js",
-    "static/js/2.4c520314.chunk.js.map": "/inwooCS/inwooCS.github.io/static/js/2.4c520314.chunk.js.map",
-    "index.html": "/inwooCS/inwooCS.github.io/index.html",
-    "precache-manifest.191162b4b7d9e210c81530ce94449864.js": "/inwooCS/inwooCS.github.io/precache-manifest.191162b4b7d9e210c81530ce94449864.js",
-    "service-worker.js": "/inwooCS/inwooCS.github.io/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/inwooCS/inwooCS.github.io/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.4c520314.chunk.js.LICENSE.txt": "/inwooCS/inwooCS.github.io/static/js/2.4c520314.chunk.js.LICENSE.txt",
-    "static/media/me.png": "/inwooCS/inwooCS.github.io/static/media/me.1ac4f09d.png",
-    "static/media/resume.pdf": "/inwooCS/inwooCS.github.io/static/media/resume.bbc61b4e.pdf",
-    "static/media/tasi.png": "/inwooCS/inwooCS.github.io/static/media/tasi.17f146c1.png",
-    "static/media/uhmanoa.jpeg": "/inwooCS/inwooCS.github.io/static/media/uhmanoa.ee9e89c9.jpeg"
+    "main.css": "/inwooCS/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/inwooCS/static/js/main.1e838b60.chunk.js",
+    "main.js.map": "/inwooCS/static/js/main.1e838b60.chunk.js.map",
+    "runtime-main.js": "/inwooCS/static/js/runtime-main.c82a3a14.js",
+    "runtime-main.js.map": "/inwooCS/static/js/runtime-main.c82a3a14.js.map",
+    "static/js/2.4c520314.chunk.js": "/inwooCS/static/js/2.4c520314.chunk.js",
+    "static/js/2.4c520314.chunk.js.map": "/inwooCS/static/js/2.4c520314.chunk.js.map",
+    "index.html": "/inwooCS/index.html",
+    "precache-manifest.94afb6c5672525ef20fd29402dfd62db.js": "/inwooCS/precache-manifest.94afb6c5672525ef20fd29402dfd62db.js",
+    "service-worker.js": "/inwooCS/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/inwooCS/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.4c520314.chunk.js.LICENSE.txt": "/inwooCS/static/js/2.4c520314.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/inwooCS/static/media/me.1ac4f09d.png",
+    "static/media/resume.pdf": "/inwooCS/static/media/resume.bbc61b4e.pdf",
+    "static/media/tasi.png": "/inwooCS/static/media/tasi.17f146c1.png",
+    "static/media/uhmanoa.jpeg": "/inwooCS/static/media/uhmanoa.ee9e89c9.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f159c57.js",
+    "static/js/runtime-main.c82a3a14.js",
     "static/js/2.4c520314.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.adcdb944.chunk.js"
+    "static/js/main.1e838b60.chunk.js"
   ]
 }
